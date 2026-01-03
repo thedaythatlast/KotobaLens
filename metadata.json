@@ -1,0 +1,7 @@
+{
+  "name": "KotobaLens - Japanese OCR & Grammar Analyzer",
+  "description": "A smart Japanese OCR tool for Android that identifies and explains complex grammatical structures and significant vocabulary.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
